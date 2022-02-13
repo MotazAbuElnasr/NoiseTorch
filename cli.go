@@ -8,6 +8,11 @@ import (
 	"github.com/lawl/pulseaudio"
 )
 
+
+
+
+
+
 type CLIOpts struct {
 	doLog      bool
 	setcap     bool
